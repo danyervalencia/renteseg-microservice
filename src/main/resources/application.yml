@@ -1,0 +1,13 @@
+#title: @project.name@
+#version: @project.version@
+application:
+    title: RENTESEG Micro Servicios
+    version: 0.0.1
+    author: Danyer A. Valencia LLamoca - DML
+
+
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/concytec_octi
+        username: postgres
+        password: 123456
